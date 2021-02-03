@@ -28,7 +28,9 @@ export default function Home(props) {
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
-      <h1>CryptoWatch - You are going to wish you hopped on earlier!</h1>
+      <h1>CryptoWatch</h1>
+
+      <h3>You are going to wish you hopped on earlier!</h3>
 
       <table className='table'>
         <thead>
