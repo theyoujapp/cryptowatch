@@ -30,8 +30,6 @@ export default function Home(props) {
 
       <h1>CryptoWatch</h1>
 
-      <h3>You are going to wish you hopped on earlier!</h3>
-
       <table className='table'>
         <thead>
           <tr>
