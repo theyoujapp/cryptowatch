@@ -29,6 +29,8 @@ export default function Home(props) {
         </Head>
 
       <h1>CryptoWatch</h1>
+    
+      <h3> "You're going to wish you hopped on it earlier!"</h3>
 
       <table className='table'>
         <thead>
